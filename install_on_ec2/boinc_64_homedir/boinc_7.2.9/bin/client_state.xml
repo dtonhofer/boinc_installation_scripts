@@ -1,0 +1,57 @@
+<client_state>
+<host_info>
+    <timezone>0</timezone>
+    <domain_name>ip-10-225-133-85</domain_name>
+    <ip_addr>10.225.133.85</ip_addr>
+    <host_cpid>98d4002a46584f3e2a31b3b02c4132c9</host_cpid>
+    <p_ncpus>1</p_ncpus>
+    <p_vendor>GenuineIntel</p_vendor>
+    <p_model>Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz [Family 6 Model 45 Stepping 7]</p_model>
+    <p_features>fpu de tsc msr pae cx8 sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc up rep_good nopl nonstop_tsc pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes hypervisor lahf_lm arat epb xsaveopt pln pts dtherm</p_features>
+    <p_fpops>1000000000.000000</p_fpops>
+    <p_iops>1000000000.000000</p_iops>
+    <p_membw>1000000000.000000</p_membw>
+    <p_calculated>0.000000</p_calculated>
+    <p_vm_extensions_disabled>0</p_vm_extensions_disabled>
+    <m_nbytes>1737232384.000000</m_nbytes>
+    <m_cache>20971520.000000</m_cache>
+    <m_swap>939520000.000000</m_swap>
+    <d_total>8455118848.000000</d_total>
+    <d_free>6309203968.000000</d_free>
+    <os_name>Linux</os_name>
+    <os_version>3.4.73-64.112.amzn1.x86_64</os_version>
+    <coprocs>
+    </coprocs>
+</host_info>
+<time_stats>
+    <on_frac>1.000000</on_frac>
+    <connected_frac>1.000000</connected_frac>
+    <cpu_and_network_available_frac>1.000000</cpu_and_network_available_frac>
+    <active_frac>1.000000</active_frac>
+    <gpu_active_frac>1.000000</gpu_active_frac>
+    <client_start_time>1391878889.575475</client_start_time>
+    <previous_uptime>9.327368</previous_uptime>
+    <last_update>1391878898.890495</last_update>
+</time_stats>
+<net_stats>
+    <bwup>0.000000</bwup>
+    <avg_up>0.000000</avg_up>
+    <avg_time_up>0.000000</avg_time_up>
+    <bwdown>0.000000</bwdown>
+    <avg_down>0.000000</avg_down>
+    <avg_time_down>0.000000</avg_time_down>
+</net_stats>
+<active_task_set>
+</active_task_set>
+<platform_name>x86_64-pc-linux-gnu</platform_name>
+<core_client_major_version>7</core_client_major_version>
+<core_client_minor_version>2</core_client_minor_version>
+<core_client_release>9</core_client_release>
+<user_run_request>2</user_run_request>
+<user_run_prev_request>2</user_run_prev_request>
+<user_gpu_request>2</user_gpu_request>
+<user_gpu_prev_request>2</user_gpu_prev_request>
+<user_network_request>2</user_network_request>
+<new_version_check_time>0.000000</new_version_check_time>
+<all_projects_list_check_time>0.000000</all_projects_list_check_time>
+</client_state>

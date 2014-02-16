@@ -1,0 +1,14 @@
+<cc_config>
+   <log_flags>
+
+       <benchmark_debug>1</benchmark_debug>
+       <checkpoint_debug>1</checkpoint_debug>
+       <cpu_sched>1</cpu_sched>
+       <cpu_sched_debug>1</cpu_sched_debug>
+       <disk_usage_debug>1</disk_usage_debug>
+       <mem_usage_debug>1</mem_usage_debug>
+       <work_fetch_debug>1</work_fetch_debug>
+       <trickle_debug>1</trickle_debug>
+
+   </log_flags>
+</cc_config>

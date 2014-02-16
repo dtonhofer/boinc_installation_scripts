@@ -1,0 +1,5 @@
+    <coprocs>
+<warning>No NVIDIA library found</warning>
+<warning>No ATI library found</warning>
+<warning>No OpenCL library found</warning>
+    </coprocs>
