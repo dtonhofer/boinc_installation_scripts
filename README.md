@@ -60,3 +60,10 @@ And that should be it, "boinc" should be running and the data in the log file vi
 
 Stop requesting more work using: `sudo su - boinc ; ./bin/winddown.sh`
 
+## Contents ##
+
+- Yellow: Actual BOINC client
+- Green: The scripts dealing with publishing the BOINC log on the web
+- Grey: The script that makes the `boinc_64.tgz` tarball
+
+![Files](https://raw.github.com/dtonhofer/boinc_installation_scripts/master/docs/boinc_installer_filetree.png "Files")
