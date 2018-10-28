@@ -1,6 +1,11 @@
 boinc_installation_scripts
 ==========================
 
+## Status ##
+
+- This code has not been reviewed since 2014
+- It *might* still work...
+
 ## What is this ##
 
 I sometimes want to install BOINC with no major hassle or thought effort, start the client, connect to projects, then forget all about it again. In particular, when using EC2 virtual machines.
