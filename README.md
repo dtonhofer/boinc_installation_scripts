@@ -12,6 +12,8 @@ I sometimes want to install BOINC with no major hassle or thought effort, start 
 
 This is how to do it with minimal extras.
 
+Nowadays I probably would do it with `ansible` instead.
+
 ## Idea ##
 
 All the BOINC files needed for a new installation shall be in a =boinc_64.tgz= file that can be downloaded from a webserver. No keys or anything of importance will be in that package, just:
